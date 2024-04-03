@@ -4,4 +4,4 @@ Made for The Odin Project
 
 live preview :
 
-https://shkelzen-hub.github.io/admin-dashboard/
+https://shkelzen-dev.github.io/admin-dashboard/
